@@ -1,2 +1,2 @@
 checkmerge
-addedforcheck
+addednewline
